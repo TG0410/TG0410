@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00CED1&center=true&vCenter=true&width=800&lines=Hi+I'm+Tae+Kyung+Lee;Yeungnam+Univ+ICE+Student;Future+Game+Developer)](https://git.io/typing-svg)
+![🔥](https://capsule-render.vercel.app/api?type=rect&color=ff4500&height=80&section=header&text=🔥%20Tae%20Kyung%20Lee%20🔥&fontSize=40&fontColor=ffffff&animation=blinking)
   
 </div>
 
