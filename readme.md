@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-![🔥](https://capsule-render.vercel.app/api?type=rect&color=ff4500&height=80&section=header&text=🔥%20Tae%20Kyung%20Lee%20🔥&fontSize=40&fontColor=ffffff&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=00CED1&text=Tae%20Kyung%20Lee&height=150&fontSize=60&desc=Yeungnam%20Univ.%20ICE%20%7C%20Software%20Focus&descAlignY=75&descAlign=60)
   
 </div>
 
