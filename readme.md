@@ -1,16 +1,16 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Tae%20Kyung%20Lee%20%F0%9F%A4%97)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00CED1&center=true&vCenter=true&width=800&lines=Hi+I'm+Tae+Kyung+Lee;Yeungnam+Univ+ICE+Student;Future+Game+Developer)](https://git.io/typing-svg)
   
 </div>
 
 <div>
   <!--Body-->
   
-  ## About Me
-  #### :raising_hand: I am a student at Yeungnam University, majoring in Information and Communication Engineering.<br/>
-  #### :fire: My main focus is Software.<br/>
+  ## introduce me 
+  #### :school: I am a student at Yeungnam University, majoring in Information and Communication Engineering.<br/>
+  #### :grinning: My main focus is Software.<br/>
   <br/>
   <br/>
   
