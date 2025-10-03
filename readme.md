@@ -8,13 +8,13 @@
 <div>
   <!--Body-->
   
-  ## introduce me 
+  ## 🙋‍♂️ Meintroduce me 
   #### :school: I am a student at Yeungnam University, majoring in Information and Communication Engineering.<br/>
   #### :grinning: My main focus is Software.<br/>
   <br/>
   <br/>
   
-  ## Tech Stack
+  ## 🛠️ Tech Stack
   ### Language
   <!--C++-->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
