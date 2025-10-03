@@ -8,7 +8,7 @@
 <div>
   <!--Body-->
   
-  ## 🙋‍♂️ Meintroduce me 
+  ## 🙋‍♂️ introduce me 
   #### :school: I am a student at Yeungnam University, majoring in Information and Communication Engineering.<br/>
   #### :grinning: My main focus is Software.<br/>
   <br/>
